@@ -3,7 +3,9 @@
 
 An educational iPad app teaching kids about budgeting and how to recognize their wants and needs in a fun and interactive way. Created as a submission to the 2022 Apple Swift Student Challenge by Miftahul Huda in April 2022.
 
-| ![App screenshot](Resources/screenshot1.png) | ![App screenshot](Resources/screenshot2.png) | ![App screenshot](Resources/screenshot3.png) | ![App screenshot](Resources/screenshot4.png) |
+| ![App screenshot](Resources/screenshot1.png) | ![App screenshot](Resources/screenshot2.png) |
+--- | ---
+| ![App screenshot](Resources/screenshot3.png) | ![App screenshot](Resources/screenshot4.png) |
 --- | ---
 
 Help Mom to Grocery is a game for child with age 8-10 years old to help their mom buy some basic needs. They will choose product based shopping notes and their budget from their mom. It inspired from serial at Netflix named "Old Enough!"
