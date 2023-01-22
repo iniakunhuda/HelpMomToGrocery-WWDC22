@@ -161,7 +161,7 @@ public struct QuizView: View {
                         .foregroundColor(.red)
                         .padding()
                         .multilineTextAlignment(.center)
-                    Text("Tips: Buy important grocery first")
+                    Text("Tips: Buy important grocery first from Shopping Note")
                         .foregroundColor(.gray)
                     
                     Spacer()
